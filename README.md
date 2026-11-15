@@ -15,3 +15,4 @@ Submitting [issues](/issues) and reporting or reproducing bugs is a major help. 
 ## What does it look like right now?
 ![image](https://github.com/Vortesys/Cascades/assets/36094486/8c676043-1558-4b65-a270-2441b7f8406d)
 ![image](https://github.com/Vortesys/Cascades/assets/36094486/a4a9735c-500b-439f-af45-33ebc4c28185)
+ 
